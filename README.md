@@ -6,6 +6,10 @@
 
 Official support repository for **Portscape Camera**.
 
+## Privacy Policy
+
+[Privacy Policy](PRIVACY_POLICY.md) (App Store Connect URL after push: `https://raw.githubusercontent.com/hemenduroy/portscape-support/main/PRIVACY_POLICY.md`)
+
 Portscape Camera helps you record once and automatically save both:
 - portrait video (9:16)
 - landscape video (16:9)
